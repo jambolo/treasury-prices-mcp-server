@@ -1,5 +1,7 @@
 # Treasury Prices MCP Server
 
+[![CI](https://github.com/jambolo/treasury-prices-mcp-server/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/jambolo/treasury-prices-mcp-server/actions/workflows/ci.yml)
+
 An [MCP](https://modelcontextprotocol.io) server exposing U.S. Treasury historical prices and TIPS valuation as tools and resources, served over Streamable HTTP.
 
 ## Data sources
